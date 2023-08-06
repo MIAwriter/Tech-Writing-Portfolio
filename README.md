@@ -1,4 +1,4 @@
-# Technical Writing Portfolio
+# Technical Writing Portfolixo
 
 Below are some samples of my technical writing. 
 
