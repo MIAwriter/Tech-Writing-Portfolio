@@ -1,5 +1,5 @@
-# Technical-Writing-Portfolio
-Technical Writing Portfolio
+# Technical Writing Portfolio
+
 Below are some samples of my technical writing. 
 
 [Installation Guide](https://miawriter.github.io/Tech-Writing-Portfolio/Installation_Guide.pdf)
