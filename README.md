@@ -16,3 +16,6 @@ Configuration Documents:
 
 
 [Release Notes](https://miawriter.github.io/Technical-Writing-Portfolio/Release_Notes.pdf)
+
+
+[Demo video](https://miawriter.github.io/Technical-Writing-Portfolio/late_arrive_early_depart_demo.mp4)
