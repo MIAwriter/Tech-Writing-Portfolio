@@ -8,7 +8,7 @@ Below are some samples of my technical writing.
 
 Configuration Documents:
 
-[Overtime Paid at the Highest Daily Rate](https://miawriter.github.io/Technical-Writing-Portfolio/Overtime_at_Highest_Daily_Rate.pdf)
+* [Overtime Paid at the Highest Daily Rate](https://miawriter.github.io/Technical-Writing-Portfolio/Overtime_at_Highest_Daily_Rate.pdf)
 
 [RESTful Web Service Interface](https://miawriter.github.io/Technical-Writing-Portfolio/RESTful_Web_Service_Interface.pdf)
 
