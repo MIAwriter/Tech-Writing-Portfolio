@@ -1,4 +1,4 @@
-About Me
+[About Me](https://miawriter.github.io/Technical-Writing-Portfolio/about)
 
 Below are some samples of my technical writing. 
 
