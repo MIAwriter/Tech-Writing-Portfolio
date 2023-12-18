@@ -4,6 +4,6 @@ My name is Ginger Moskowitz and I'm a technical writer currently working for UKG
 
 I've been working for UKG for over 10 years, writing help files, installation guides, feature guides, and release notes. I've also created short demo videos using SnagIt and VSDC. 
 
-If you have any questions about my work, please feel free to email me at gingermoskowitz@gmail.com. 
+If you have any questions about my work, please feel free to email me at gingermoskowitz@gmail.com.
 
-
+Please note that the product and company names in these documents have been changed to avoid any copyright issues.
