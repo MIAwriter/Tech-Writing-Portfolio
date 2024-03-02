@@ -1,5 +1,4 @@
-[About Me](https://miawriter.github.io/Technical-Writing-Portfolio/About.txt)       |       [Resume](https://miawriter.github.io/Technical-Writing-Portfolio/Ginger_Moskowitz_Technical_Writer_Resume
-.pdf)
+[About Me](https://miawriter.github.io/Technical-Writing-Portfolio/About.txt)       |       [Resume](https://miawriter.github.io/Technical-Writing-Portfolio/Ginger_Moskowitz_Technical_Writer_Resume.pdf)
 
 Below are some samples of my technical writing. 
 
