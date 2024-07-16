@@ -1,6 +1,6 @@
 [About Me](https://miawriter.github.io/Technical-Writing-Portfolio/About.txt)       |       [Resume](https://miawriter.github.io/Technical-Writing-Portfolio/Ginger_Moskowitz_Technical_Writer_Resume.pdf)
 
-Below are some samples of my technical writing. 
+Below are some samples of my technical writing. Please note that the product and company names in these documents have been changed to avoid any copyright issues. 
 
 
 [Installation Guide](https://miawriter.github.io/Technical-Writing-Portfolio/Installation_Guide.pdf)
