@@ -1,9 +1,7 @@
 Welcome and thanks for checking out my technical writing portfolio. 
 
-My name is Ginger Moskowitz and I'm a technical writer currently working for UKG in Weston, FL. 
-
-I've been working for UKG for over 10 years, writing help files, installation guides, feature guides, and release notes. I've also created short demo videos using SnagIt and VSDC. 
+My name is Ginger Moskowitz and I'm a technical writer specializing in software systems, products, and interfaces. I have experience writing online help files, installation guides, feature guides, release notes, and other types of user documentation. I've also created short demo videos using SnagIt and VSDC.  
 
 If you have any questions about my work, please feel free to email me at gingermoskowitz@gmail.com.
 
-Please note that the product and company names in these documents have been changed to avoid any copyright issues.
+Please note that the product and company names in my portfolio documents have been changed to avoid any copyright issues.
